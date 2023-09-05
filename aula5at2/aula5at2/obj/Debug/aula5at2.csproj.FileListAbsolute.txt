@@ -1,0 +1,11 @@
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\bin\Debug\aula5at2.exe.config
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\bin\Debug\aula5at2.exe
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\bin\Debug\aula5at2.pdb
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.csproj.AssemblyReference.cache
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.csproj.SuggestedBindingRedirects.cache
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.Form1.resources
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.Properties.Resources.resources
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.csproj.GenerateResource.cache
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.csproj.CoreCompileInputs.cache
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.exe
+C:\Users\22200552\Source\Repos\aula5at2\aula5at2\obj\Debug\aula5at2.pdb
